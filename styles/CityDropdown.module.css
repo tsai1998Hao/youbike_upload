@@ -1,0 +1,29 @@
+.selectArea{
+    width: 175px;
+    height: 40px;
+    margin-right: 16px;
+    background-color: rgba(246, 246, 246, 1);
+    border-radius: 8px;
+    border: none;
+    padding-left: 10px;
+    outline: none;
+}
+.selectAll{
+    display: block;
+    margin-left: 2%;
+    margin-top: 24px;
+    margin-bottom: 15px;
+}
+.siteChooses{
+    display: flex;
+    flex-wrap: wrap;
+    width: 470px;
+}
+.siteChooseOut{
+}
+.siteChoose{
+}
+.siteChooseLabel{
+    margin-right: 23px;
+    margin-bottom: 15px;
+}
