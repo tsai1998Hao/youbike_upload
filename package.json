@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "go":"nodemon answer5.js",
+    "go": "nodemon answer5.js",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
@@ -15,7 +15,8 @@
     "nodemon": "^3.1.0",
     "react": "^18",
     "react-dom": "^18",
-    "react-icons": "^5.1.0"
+    "react-icons": "^5.1.0",
+    "react-window": "^1.8.10"
   },
   "devDependencies": {
     "eslint": "^8",
